@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "277248625863",
+    "project_id": "gabage-85d4c",
+    "storage_bucket": "gabage-85d4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277248625863:android:14c1a076f405a26a7f42e2",
+        "android_client_info": {
+          "package_name": "com.example.farm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnynS8yMaYxDpagRZbhJzJ4KnfzRCERXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277248625863:android:ea49cf3860ea686e7f42e2",
+        "android_client_info": {
+          "package_name": "com.gdsc.recyclr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnynS8yMaYxDpagRZbhJzJ4KnfzRCERXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
